@@ -2,3 +2,6 @@ Bash is the default shell on most Unix-like computers.
  It allows users to control computers through a command-line interface.
  It acts as a scripting language that can be used to automate tasks.
  sed is a program that allows text to be parsed and modified in a powerful and effective way.
+
+ # This is an output file where sed has been usedd to maniple another file names newtext.txt 
+ # In order to demonstrate the way sed can be used to maniplulate words in text strings.
